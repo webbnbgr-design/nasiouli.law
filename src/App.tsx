@@ -177,8 +177,8 @@ const About = () => {
           >
             <div className="aspect-[4/5] rounded-2xl overflow-hidden shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&q=80&w=1000" 
-                alt="Law Office Interior" 
+                src="https://images.unsplash.com/photo-1521791136064-7986c2959213?auto=format&fit=crop&q=80&w=1000" 
+                alt="Professional Meeting" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
               />
@@ -356,7 +356,7 @@ const RealEstate = () => {
             <div className="grid grid-cols-2 gap-4">
               <div className="space-y-4 pt-12">
                 <div className="rounded-2xl overflow-hidden aspect-square">
-                  <img src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&q=80&w=600" alt="Modern Building" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                  <img src="https://images.unsplash.com/photo-1558036117-15d82a90b9b1?auto=format&fit=crop&q=80&w=600" alt="Classic Architecture" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
                 </div>
                 <div className="rounded-2xl overflow-hidden aspect-[3/4] bg-soft-gold flex items-center justify-center p-8 text-center">
                   <Building2 size={48} className="text-slate-blue opacity-40 mb-4" />
@@ -365,10 +365,10 @@ const RealEstate = () => {
               </div>
               <div className="space-y-4">
                 <div className="rounded-2xl overflow-hidden aspect-[3/4]">
-                  <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=600" alt="Luxury Home" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                  <img src="https://images.unsplash.com/photo-1600585154340-be6199f74109?auto=format&fit=crop&q=80&w=600" alt="Luxury Residence" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
                 </div>
                 <div className="rounded-2xl overflow-hidden aspect-square">
-                  <img src="https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=600" alt="Office Space" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                  <img src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&q=80&w=600" alt="Elegant Interior" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
                 </div>
               </div>
             </div>
